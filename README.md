@@ -45,10 +45,12 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Esse projeto está sob a licença MIT.
 
 ---
-Autor
-Guilherme Henrique de Souza
 
-https://www.linkedin.com/in/guilherme-henrique-de-souza-50a012170/
+# Autor
+ >   Guilherme Henrique de Souza
 
-guillehs96@gmail.com
+>https://www.linkedin.com/in/guilherme-henrique-de-souza-50a012170/
+    
+> guillehs96@gmail.com  
+
 Feito com ♥ by Rocketseat 
